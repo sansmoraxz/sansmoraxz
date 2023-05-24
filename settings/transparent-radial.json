@@ -1,0 +1,20 @@
+{
+  "type": "rainbow",
+  "fileName": "profile-transparent-radial.svg",
+  "backgroundColor": "#0000",
+  "foregroundColor": "#f83abb",
+  "strongColor": "rgb(227,25,102)",
+  "weakColor": "#19e3c1",
+  "radarColor": "rgb(227,25,102)",
+  "growingAnimation": true,
+  "saturation": "50%",
+  "contribLightness": [
+    "20%",
+    "30%",
+    "35%",
+    "40%",
+    "50%"
+  ],
+  "duration": "10s",
+  "hueRatio": -7
+}
