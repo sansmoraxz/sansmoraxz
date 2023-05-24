@@ -1,5 +1,6 @@
 # Welcome
 
+<img align="right" alt="GIF" src="artifacts/mech-drgn.jpeg" width="128" height="192" />
 Hi there 👋
 
 I'm a software engineer with a passion for building things and solving problems. I'm currently working as a Software Engineer at [**@Atos**](https://atos.net/en/). I have a strong interest in cloud computing, distributed systems, and artificial intelligence. I'm also a big fan of open-source software and I try to contribute to the community as much as I can.
@@ -7,8 +8,8 @@ I'm a software engineer with a passion for building things and solving problems.
 <br />
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/souyama) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@souyama) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/souyama)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@souyama)
 
 ## 🏆 GitHub Trophies
 [![](https://github-profile-trophy.vercel.app/?username=sansmoraxz&theme=radical&no-frame=true&no-bg=true&column=-1)](https://github.com/sansmoraxz#gh-dark-mode-only)
