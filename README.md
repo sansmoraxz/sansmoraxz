@@ -1,9 +1,10 @@
 # Welcome
-
-<img align="right" alt="GIF" src="artifacts/mech-drgn.jpeg" width="128" height="192" />
+<div style="overflow: auto; width: 80%">
+<img align="right" src="artifacts/mech-drgn.jpeg" width="128" height="192" vspace="20px" hspace="50px"/>
 Hi there 👋
 
 I'm a software engineer with a passion for building things and solving problems. I'm currently working as a Software Engineer at [**@Atos**](https://atos.net/en/). I have a strong interest in cloud computing, distributed systems, and artificial intelligence. I'm also a big fan of open-source software and I try to contribute to the community as much as I can.
+</div>
 
 <br />
 
@@ -11,9 +12,13 @@ I'm a software engineer with a passion for building things and solving problems.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/souyama)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@souyama)
 
+<br />
+
 ## 🏆 GitHub Trophies
 [![](https://github-profile-trophy.vercel.app/?username=sansmoraxz&theme=radical&no-frame=true&no-bg=true&column=-1)](https://github.com/sansmoraxz#gh-dark-mode-only)
 [![](https://github-profile-trophy.vercel.app/?username=sansmoraxz&theme=flat&no-frame=true&no-bg=true&column=-1)](https://github.com/sansmoraxz#gh-light-mode-only)
+
+<br />
 
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -63,7 +68,7 @@ I'm a software engineer with a passion for building things and solving problems.
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
-
+<br />
 
 ## 📊 GitHub Stats
 [![](https://github-readme-stats.vercel.app/api?username=sansmoraxz&theme=radical&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/sansmoraxz#gh-dark-mode-only)
@@ -73,6 +78,7 @@ I'm a software engineer with a passion for building things and solving problems.
 [![](https://github-readme-streak-stats.herokuapp.com/?user=sansmoraxz&theme=radical&background=00000000&hide_border=true)](https://github.com/sansmoraxz#gh-dark-mode-only)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=sansmoraxz&theme=default&background=00000000&hide_border=true)](https://github.com/sansmoraxz#gh-light-mode-only)
 <br/>
+<br />
 
 <details>
    <summary>✍️ Random Dev Quote</summary>
