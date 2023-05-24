@@ -78,7 +78,9 @@ I'm a software engineer with a passion for building things and solving problems.
 [![](https://github-readme-streak-stats.herokuapp.com/?user=sansmoraxz&theme=radical&background=00000000&hide_border=true)](https://github.com/sansmoraxz#gh-dark-mode-only)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=sansmoraxz&theme=default&background=00000000&hide_border=true)](https://github.com/sansmoraxz#gh-light-mode-only)
 <br/>
-<br />
+![](profile-3d-contrib/profile-transparent-radial.svg)
+<br/>
+<br/>
 
 <details>
    <summary>✍️ Random Dev Quote</summary>
