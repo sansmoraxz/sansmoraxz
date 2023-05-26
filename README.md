@@ -71,14 +71,17 @@ I'm a software engineer with a passion for building things and solving problems.
 <br />
 
 ## 📊 GitHub Stats
-[![](https://github-readme-stats.vercel.app/api?username=sansmoraxz&theme=radical&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/sansmoraxz#gh-dark-mode-only)
-[![](https://github-readme-stats.vercel.app/api?username=sansmoraxz&theme=default&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/sansmoraxz#gh-light-mode-only)
+
+
+[![](https://github-readme-stats.vercel.app/api?username=sansmoraxz&theme=radical&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/sansmoraxz#gh-dark-mode-only)
+[![](https://github-readme-stats.vercel.app/api?username=sansmoraxz&theme=default&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/sansmoraxz#gh-light-mode-only)
 <br/>
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=sansmoraxz&theme=radical&background=00000000&hide_border=true)](https://github.com/sansmoraxz#gh-dark-mode-only)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=sansmoraxz&theme=default&background=00000000&hide_border=true)](https://github.com/sansmoraxz#gh-light-mode-only)
-<br/>
+[![](https://github-readme-streak-stats.herokuapp.com/?user=sansmoraxz&theme=radical&background=00000000&hide_border=true)](https://github-readme-streak-stats.herokuapp.com/?user=sansmoraxz#gh-dark-mode-only)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=sansmoraxz&theme=buefy&background=00000000&hide_border=true)](https://github-readme-streak-stats.herokuapp.com/?user=sansmoraxz#gh-light-mode-only)
+
 ![](profile-3d-contrib/profile-transparent-radial.svg)
+
 <br/>
 <br/>
 
