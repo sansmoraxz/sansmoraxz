@@ -15,8 +15,18 @@ I'm a software engineer with a passion for building things and solving problems.
 <br />
 
 ## 🏆 GitHub Trophies
-[![](https://github-profile-trophy.vercel.app/?username=sansmoraxz&theme=radical&no-frame=true&no-bg=true&column=-1)](https://github.com/sansmoraxz#gh-dark-mode-only)
-[![](https://github-profile-trophy.vercel.app/?username=sansmoraxz&theme=flat&no-frame=true&no-bg=true&column=-1)](https://github.com/sansmoraxz#gh-light-mode-only)
+
+<picture>
+<source
+  srcset="https://github-profile-trophy.vercel.app/?username=sansmoraxz&theme=radical&no-frame=true&no-bg=true&column=-1"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-profile-trophy.vercel.app/?username=sansmoraxz&theme=flat&no-frame=true&no-bg=true&column=-1"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-profile-trophy.vercel.app/?username=sansmoraxz&theme=flat&no-frame=true&no-bg=true&column=-1" />
+</picture>
 
 <br />
 
@@ -73,25 +83,67 @@ I'm a software engineer with a passion for building things and solving problems.
 ## 📊 GitHub Stats
 
 
-[![](https://github-readme-stats.vercel.app/api?username=sansmoraxz&theme=radical&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/sansmoraxz#gh-dark-mode-only)
-[![](https://github-readme-stats.vercel.app/api?username=sansmoraxz&theme=default&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/sansmoraxz#gh-light-mode-only)
+<!-- GitHub Stats -->
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=sansmoraxz&theme=radical&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=sansmoraxz&theme=default&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=sansmoraxz&theme=default&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+</picture>
+
 <br/>
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=sansmoraxz&theme=radical&background=00000000&hide_border=true)](https://github-readme-streak-stats.herokuapp.com/?user=sansmoraxz#gh-dark-mode-only)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=sansmoraxz&theme=buefy&background=00000000&hide_border=true)](https://github-readme-streak-stats.herokuapp.com/?user=sansmoraxz#gh-light-mode-only)
-
-![](profile-3d-contrib/profile-transparent-radial.svg)
+<!-- Streak Stats -->
+<picture>
+<source
+  srcset="https://github-readme-streak-stats.herokuapp.com/?user=sansmoraxz&theme=radical&background=00000000&hide_border=true"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-streak-stats.herokuapp.com/?user=sansmoraxz&theme=buefy&background=00000000&hide_border=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sansmoraxz&theme=buefy&background=00000000&hide_border=true" />
+</picture>
 
 <br/>
+
+<!-- 3d contribution graph -->
+<picture>
+<source
+  srcset="profile-3d-contrib/profile-transparent-radial.svg"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="profile-3d-contrib/profile-transparent-season.svg"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="profile-3d-contrib/profile-transparent-season.svg" />
+</picture>
+
 <br/>
 
 <details>
    <summary>✍️ Random Dev Quote</summary>
   
    <br/>
-  
-   [![](https://quotes-github-readme.vercel.app/api?theme=dark&type=horizontal)](https://github.com/PiyushSuthar/github-readme-quotes#gh-dark-mode-only)
-   [![](https://quotes-github-readme.vercel.app/api?theme=light&type=horizontal)](https://github.com/PiyushSuthar/github-readme-quotes#gh-light-mode-only)
+
+   <picture>
+      <source
+      srcset="https://quotes-github-readme.vercel.app/api?theme=dark&type=horizontal"
+      media="(prefers-color-scheme: dark)"
+      />
+      <source
+      srcset="https://quotes-github-readme.vercel.app/api?theme=light&type=horizontal"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://quotes-github-readme.vercel.app/api?theme=light&type=horizontal" />
+   </picture>
 </details>
 
 
