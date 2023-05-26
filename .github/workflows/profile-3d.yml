@@ -1,6 +1,12 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'settings/3dcontibs.json'
+      - '.github/workflows/*'
   schedule:
     # every day at 18:00 UTC
     - cron: "0 18 * * *"
