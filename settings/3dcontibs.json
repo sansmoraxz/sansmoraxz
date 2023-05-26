@@ -1,0 +1,60 @@
+[
+  {
+    "type": "rainbow",
+    "fileName": "profile-transparent-radial.svg",
+    "backgroundColor": "#0000",
+    "foregroundColor": "#f83abb",
+    "strongColor": "rgb(227,25,102)",
+    "weakColor": "#19e3c1",
+    "radarColor": "rgb(227,25,102)",
+    "growingAnimation": true,
+    "saturation": "50%",
+    "contribLightness": [
+      "20%",
+      "30%",
+      "35%",
+      "40%",
+      "50%"
+    ],
+    "duration": "10s",
+    "hueRatio": -7
+  },
+  {
+    "type": "season",
+    "fileName": "profile-transparent-season.svg",
+    "backgroundColor": "#0000",
+    "foregroundColor": "#00000f",
+    "strongColor": "#111133",
+    "weakColor": "gray",
+    "radarColor": "#47a042",
+    "growingAnimation": true,
+    "contribColors1": [
+      "#efefef",
+      "#ffe7ff",
+      "#edaeda",
+      "#e492ca",
+      "#ba7aad"
+    ],
+    "contribColors2": [
+      "#efefef",
+      "#d8e887",
+      "#8cc569",
+      "#47a042",
+      "#1d6a23"
+    ],
+    "contribColors3": [
+      "#efefef",
+      "#ffed4a",
+      "#ffc402",
+      "#fe9400",
+      "#fa6100"
+    ],
+    "contribColors4": [
+      "#efefef",
+      "#999999",
+      "#cccccc",
+      "#dddddd",
+      "#eeeeee"
+    ]
+  }
+]

@@ -16,7 +16,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: 'settings/transparent-radial.json'
+          SETTING_JSON: 'settings/3dcontibs.json'
           MAX_REPOS: 500
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
