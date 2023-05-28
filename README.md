@@ -87,16 +87,20 @@ I'm a software engineer with a passion for building things and solving problems.
   <img src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" height="60" hspace="10" />
 </p>
 
-#### Dev/Ops frameworks I like
+#### Cloud Native tools I like
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" height="60" hspace="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" hspace="10" />
   <img src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" height="60" hspace="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="60" hspace="10" />
+  
+<p/>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="60" hspace="10" />
   <img src="https://user-images.githubusercontent.com/25181517/190230082-55409fe9-d5a2-4f3d-bdba-0f0946190e67.png" height="60" hspace="10" />
   <img src="https://user-images.githubusercontent.com/25181517/182534182-c510199a-7a4d-4084-96e3-e3db2251bbce.png" height="60" hspace="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="60" hspace="10" />
+  <img src="https://github.com/cncf/artwork/blob/285639617e1e98ed756bccf0697752b5f6e33e33/projects/keda/icon/color/keda-icon-color.png" height="60" hspace="10" />
 </p>
 
 #### Operating System I prefer
