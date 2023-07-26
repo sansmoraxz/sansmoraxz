@@ -8,6 +8,7 @@ I'm a software engineer with a passion for building things and solving problems.
 
 <br />
 
+<!--
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/souyama)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@souyama)
@@ -115,7 +116,6 @@ I'm a software engineer with a passion for building things and solving problems.
 ## 📊 GitHub Stats
 
 
-<!-- GitHub Stats -->
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=sansmoraxz&theme=radical&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"
@@ -130,7 +130,6 @@ I'm a software engineer with a passion for building things and solving problems.
 
 <br/>
 
-<!-- Streak Stats -->
 <picture>
 <source
   srcset="https://github-readme-streak-stats.herokuapp.com/?user=sansmoraxz&theme=radical&background=00000000&hide_border=true"
@@ -144,8 +143,8 @@ I'm a software engineer with a passion for building things and solving problems.
 </picture>
 
 <br/>
+-->
 
-<!-- 3d contribution graph -->
 <picture>
 <source
   srcset="profile-3d-contrib/profile-transparent-radial.svg"
@@ -181,17 +180,3 @@ I'm a software engineer with a passion for building things and solving problems.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!--
-**sansmoraxz/sansmoraxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
