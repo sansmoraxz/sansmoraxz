@@ -3,7 +3,7 @@
 <img align="right" src="artifacts/mech-drgn.jpeg" width="128" height="192" vspace="20px" hspace="50px"/>
 Hi there 👋
 
-I'm a software engineer with a passion for building things and solving problems. I'm currently working as a Software Engineer at [**@Atos**](https://atos.net/en/). I have a strong interest in cloud computing, distributed systems, and artificial intelligence. I'm also a big fan of open-source software and I try to contribute to the community as much as I can.
+I'm a software engineer with a passion for building things and solving problems. I'm currently working as a technical consultant at [**@Atos**](https://atos.net/en/). I have a strong interest in cloud computing, distributed systems, and artificial intelligence. I'm also a big fan of open-source software and I try to contribute to the community as much as I can.
 </div>
 
 <br />
