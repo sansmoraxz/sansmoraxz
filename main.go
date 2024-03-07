@@ -5,6 +5,8 @@ import (
 	"net/http"
 
 	"github.com/maxence-charriere/go-app/v9/pkg/app"
+
+	"github.com/fatih/color"
 )
 
 // The main function is the entry point where the app is configured and started.
@@ -41,7 +43,11 @@ func main() {
 		Description: "An Hello World! example",
 	})
 
-	if err := http.ListenAndServe(":8000", nil); err != nil {
+	addr := ":8000"
+
+	color.Green("Server started: http://localhost%s", addr)
+
+	if err := http.ListenAndServe(addr, nil); err != nil {
 		log.Fatal(err)
 	}
 }
