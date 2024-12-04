@@ -145,6 +145,8 @@ I'm an engineer with a passion for building things and solving problems. I'm cur
 <br/>
 -->
 
+
+<!--
 <picture>
 <source
   srcset="profile-3d-contrib/profile-transparent-radial.svg"
@@ -156,6 +158,7 @@ I'm an engineer with a passion for building things and solving problems. I'm cur
 />
 <img src="profile-3d-contrib/profile-transparent-season.svg" />
 </picture>
+-->
 
 <br/>
 
