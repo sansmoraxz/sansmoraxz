@@ -3,7 +3,7 @@
 <img align="right" src="artifacts/mech-drgn.jpeg" width="128" height="192" vspace="20px" hspace="50px"/>
 Hi there 👋
 
-I'm an engineer with a passion for building things and solving problems. I'm currently working as a developer + tech innovator at [**@Fountlab**](https://fountlab.io/). I have a strong interest in cloud computing, distributed systems, and artificial intelligence. I'm also a big fan of open-source software and I try to contribute to the community as much as I can.
+I'm an engineer with a passion for building things and solving problems. I'm currently working as a developer + tech innovator at [**@Fountlab**](https://fountlab.io/). I have a strong interest in cloud computing, distributed systems, embedded computing and artificial intelligence. I'm also a big fan of open-source software and I try to contribute to the community as much as I can.
 </div>
 
 <br />
